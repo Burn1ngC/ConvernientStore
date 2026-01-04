@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
   id: cereal
   displayName: Cereal
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 2a552a34acb847249b0ea9dd4928438e, type: 3}
   ingredientsText: 
   isDecoy: 0
   rarityWeight: 1
